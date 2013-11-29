@@ -1,0 +1,574 @@
+callsign,channel,city,stateabbr,latitude,longitude,dma_id,dma_name,dma_rank,classification,avg_aqh,male_aqh,female_aqh,18to34_aqh,35to49_aqh,50plus_aqh,mon_fri_aqh,weekend_aqh
+WADO-AM,1280,New York,NY,40.714353,-74.005973,501,"New York, NY",1,Spanish News-Talk,1657,514,1143,57,457,1143,1200,2800
+WQBU-FM,92.7,Garden City,NY,40.726768,-73.634295,501,"New York, NY",1,Tropical,1714,1286,429,214,1429,71,2400,0
+WEPN-AM,1050,New York,NY,40.714353,-74.005973,501,"New York, NY",1,Spanish Sports,0,0,0,0,0,0,0,0
+WLIM-AM,1580,Patchogue,NY,40.765654,-73.015108,501,"New York, NY",1,Spanish Religious,0,0,0,0,0,0,0,0
+WBON-FM,98.5,Westhampton,NY,40.824544,-72.666207,501,"New York, NY",1,Tropical,1400,657,743,157,514,729,800,2900
+WTOC-AM,1360,Newton,NJ,41.058153,-74.752665,501,"New York, NY",1,Spanish Religious,0,0,0,0,0,0,0,0
+WXNY-FM,96.3,New York,NY,40.714353,-74.005973,501,"New York, NY",1,Spanish CHR,429,143,286,71,143,214,600,0
+WVOS-AM,1240,Liberty,NY,41.8012,-74.74655,501,"New York, NY",1,Spanish Sports,0,0,0,0,0,0,0,0
+WXMC-AM,1310,Parsippany,NJ,40.857481,-74.427019,501,"New York, NY",1,Spanish Religious,0,0,0,0,0,0,0,0
+WUPC-LP,102.3,Arrowhead Village,NJ,40.076505,-74.10375,501,"New York, NY",1,Spanish Religious,0,0,0,0,0,0,0,0
+WIQR-AM,1410,Prattville,AL,32.464025,-86.459697,698,"Montgomery-Selma, AL",120,Spanish,0,0,0,0,0,0,0,0
+WEST-AM,1400,Easton,PA,40.688432,-75.220732,504,"Philadelphia, PA",4,Tropical,657,343,314,29,86,543,0,2300
+WHAT-AM,1340,Philadelphia,PA,39.952335,-75.163789,504,"Philadelphia, PA",4,Spanish CHR,2571,1043,1529,457,1000,1114,2400,3000
+WHOL-AM,1600,Allentown,PA,40.608431,-75.490183,504,"Philadelphia, PA",4,Tropical,2357,643,1714,357,571,1429,3300,0
+WIBG-AM,1020,Ocean City,NJ,39.277616,-74.5746,504,"Philadelphia, PA",4,Spanish Adult Hits,0,0,0,0,0,0,0,0
+WRJE-AM,1600,Dover,DE,39.158168,-75.524368,504,"Philadelphia, PA",4,Regional Mexican,0,0,0,0,0,0,0,0
+WMIZ-AM,1270,Vineland,NJ,39.486377,-75.025964,504,"Philadelphia, PA",4,Spanish Hits,0,0,0,0,0,0,0,0
+WMVB-AM,1440,Millville,NJ,39.40206,-75.039344,504,"Philadelphia, PA",4,Regional Mexican,0,0,0,0,0,0,0,0
+WEMG-AM,1310,Camden,NJ,39.925946,-75.11962,504,"Philadelphia, PA",4,Tropical,1957,1029,929,886,643,429,2300,1100
+WSDS-AM,1480,Salem,MI,42.406147,-83.579938,505,"Detroit, MI",11,Regional Mexican,0,0,0,0,0,0,0,0
+WAMG-AM,890,Dedham,MA,42.241192,-71.166143,506,"Boston (Manchester), MA-NH",7,Tropical,1086,414,671,71,671,343,1000,1300
+WNNW-AM,800,Lawrence,MA,42.707035,-71.163114,506,"Boston (Manchester), MA-NH",7,Tropical,3271,2529,743,357,1343,1571,4500,200
+WCEC-AM,1490,Haverhill,MA,42.776202,-71.07728,506,"Boston (Manchester), MA-NH",7,Spanish Talk,514,200,314,57,86,371,0,1800
+WLLH-AM,1400,Lowell,MA,42.633425,-71.316172,506,"Boston (Manchester), MA-NH",7,Tropical,1343,800,543,414,757,171,400,3700
+WWDJ-AM,1150,Boston,MA,42.358431,-71.059773,506,"Boston (Manchester), MA-NH",7,Spanish Religious,0,0,0,0,0,0,0,0
+WORC-AM,1310,Worcester,MA,42.262593,-71.802293,506,"Boston (Manchester), MA-NH",7,Tropical,1357,629,729,0,214,1143,100,4500
+WUNR-AM,1600,Brookline,MA,42.331764,-71.121163,506,"Boston (Manchester), MA-NH",7,Spanish,4814,2029,2786,171,400,4243,100,16600
+WKOX-AM,1430,Everett,MA,42.40843,-71.053662,506,"Boston (Manchester), MA-NH",7,Spanish Hits,886,271,614,286,343,257,1000,600
+WNFO-AM,1430,Sun City-Hilton Head,SC,32.287299,-80.970529,507,"Savannah, GA",92,Spanish,0,0,0,0,0,0,0,0
+WGBJ-FM,102.3,Auburn,IN,41.366994,-85.058857,509,"Ft. Wayne, IN",109,Regional Mexican,829,286,543,29,343,457,400,1900
+WBZQ-AM,1300,Huntington,IN,40.883101,-85.497476,509,"Ft. Wayne, IN",109,Regional Mexican,0,0,0,0,0,0,0,0
+WNRL-LP,105.9,Ligonier,IN,41.465882,-85.587485,509,"Ft. Wayne, IN",109,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+WRUM-FM,100.3,Orlando,FL,28.538336,-81.379236,534,"Orlando-Daytona Beach-Melbourne, FL",18,Tropical,657,257,400,0,214,443,600,800
+WNUE-FM,98.1,Deltona,FL,28.900545,-81.263674,534,"Orlando-Daytona Beach-Melbourne, FL",18,Tropical,8571,4529,4043,3714,2200,2657,1000,27500
+WHKQ-FM,103.1,Windermere,FL,28.495559,-81.534795,534,"Orlando-Daytona Beach-Melbourne, FL",18,Spanish Hits,629,143,486,143,357,129,800,200
+WJRN-LP,95.9,Summerfield,FL,29.008592,-82.034809,534,"Orlando-Daytona Beach-Melbourne, FL",18,Spanish Religious,0,0,0,0,0,0,0,0
+WBQH-AM,1050,Silver Spring,MD,38.990666,-77.026088,511,"Washington (Hagerstown), DC-MD",8,Regional Mexican,1714,929,786,71,786,857,2400,0
+WKDV-AM,1460,Manassas,VA,38.750949,-77.475267,511,"Washington (Hagerstown), DC-MD",8,Regional Mexican,57,29,29,0,29,29,0,200
+WDMV-AM,700,Walkersville,MD,39.486213,-77.351928,511,"Washington (Hagerstown), DC-MD",8,Spanish,143,0,143,143,0,0,200,0
+WURA-AM,920,Quantico,VA,38.522923,-77.290079,511,"Washington (Hagerstown), DC-MD",8,Tejano,0,0,0,0,0,0,0,0
+WDCN-LP,87.7,Fairfax,VA,38.846224,-77.306373,511,"Washington (Hagerstown), DC-MD",8,Spanish Hits,0,0,0,0,0,0,0,0
+WLZL-FM,107.9,Annapolis,MD,38.978445,-76.492183,512,"Baltimore, MD",27,Tropical,1000,714,286,571,214,214,1400,0
+KNNS-AM,1510,Larned,KS,38.180569,-99.098713,627,"Wichita-Hutchinson Plus, KS",67,Regional Mexican,0,0,0,0,0,0,0,0
+KLIO-AM,1070,Wichita,KS,37.688889,-97.336111,627,"Wichita-Hutchinson Plus, KS",67,Spanish Sports,0,0,0,0,0,0,0,0
+KSMM-FM,101.5,Liberal,KS,37.043081,-100.920999,627,"Wichita-Hutchinson Plus, KS",67,Regional Mexican,0,0,0,0,0,0,0,0
+KYQQ-FM,106.5,Arkansas City,KS,37.061974,-97.038371,627,"Wichita-Hutchinson Plus, KS",67,Regional Mexican,1000,643,357,429,429,143,1400,0
+KSSA-FM,105.9,Ingalls,KS,37.8278,-100.454593,627,"Wichita-Hutchinson Plus, KS",67,Regional Mexican,0,0,0,0,0,0,0,0
+KONQ-FM,91.9,Dodge City,KS,37.752798,-100.017079,627,"Wichita-Hutchinson Plus, KS",67,Spanish,0,0,0,0,0,0,0,0
+KMML-FM,92.9,Cimarron,KS,37.806688,-100.3482,627,"Wichita-Hutchinson Plus, KS",67,Regional Mexican,0,0,0,0,0,0,0,0
+KQBE-FM,88.1,Beloit,KS,39.456118,-98.106159,627,"Wichita-Hutchinson Plus, KS",67,Spanish Religious,0,0,0,0,0,0,0,0
+WBBF-AM,1120,Buffalo,NY,42.886447,-78.878369,514,"Buffalo, NY",52,Spanish Contemporary Christian,1314,771,543,257,257,800,0,4600
+WOXY-FM,97.7,Mason,OH,39.360059,-84.309939,515,"Cincinnati, OH",35,Regional Mexican,214,143,71,214,0,0,300,0
+WCXN-AM,1170,Claremont,NC,35.714578,-81.146192,517,"Charlotte, NC",25,Regional Mexican,0,0,0,0,0,0,0,0
+WOLS-FM,106.1,Waxhaw,NC,34.924594,-80.743402,517,"Charlotte, NC",25,Regional Mexican,1386,1000,386,714,600,71,1900,100
+WNOW-AM,1030,Mint Hill,NC,35.17354,-80.65703,517,"Charlotte, NC",25,Spanish Contemporary Christian,2914,1457,1457,1771,914,229,0,10200
+WIST-FM,98.3,Thomasville,NC,35.882637,-80.081988,518,"Greensboro-High Point-Winston Salem, NC",46,Regional Mexican,786,571,214,214,429,143,1100,0
+WYMY-FM,101.1,Burlington,NC,36.095692,-79.437799,518,"Greensboro-High Point-Winston Salem, NC",46,Regional Mexican,214,143,71,0,214,0,300,0
+WSMX-AM,1500,Winston-Salem,NC,36.09986,-80.244216,518,"Greensboro-High Point-Winston Salem, NC",46,Regional Mexican,229,57,171,29,0,200,0,800
+WBLO-AM,790,Thomasville,NC,35.882637,-80.081988,518,"Greensboro-High Point-Winston Salem, NC",46,Spanish Oldies,743,386,357,29,486,229,200,2100
+WWBG-AM,1470,Greensboro,NC,36.072635,-79.791975,518,"Greensboro-High Point-Winston Salem, NC",46,Regional Mexican,0,0,0,0,0,0,0,0
+WSGH-AM,1040,Lewisville,NC,36.097082,-80.419222,518,"Greensboro-High Point-Winston Salem, NC",46,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+WKKB-FM,100.3,Middletown,RI,41.521824,-71.283454,521,"Providence-New Bedford, RI-MA",53,Tropical,786,286,500,429,286,71,1100,0
+WRNI-AM,1290,Providence,RI,41.823989,-71.412834,521,"Providence-New Bedford, RI-MA",53,Spanish News-Talk,514,257,257,86,57,371,400,800
+WIGV-LP,96.5,Providence,RI,41.823989,-71.412834,521,"Providence-New Bedford, RI-MA",53,Spanish Religious,0,0,0,0,0,0,0,0
+KLHC-AM,1350,Bakersfield,CA,35.373292,-119.018712,800,"Bakersfield, CA",127,Spanish Religious,1029,800,229,57,543,429,0,3600
+KCHJ-AM,1010,Delano,CA,35.768843,-119.247054,800,"Bakersfield, CA",127,Spanish Oldies,1186,686,500,143,171,871,1300,900
+KPSL-FM,96.5,Bakersfield,CA,35.373292,-119.018712,800,"Bakersfield, CA",127,Spanish Adult Hits,1857,714,1143,786,1000,71,2600,0
+KBFP-FM,105.3,Delano,CA,35.768843,-119.247054,800,"Bakersfield, CA",127,Spanish Adult Hits,2857,1286,1571,929,0,1929,4000,0
+KIWI-FM,102.9,McFarland,CA,35.67801,-119.229275,800,"Bakersfield, CA",127,Regional Mexican,4257,2414,1843,2486,1229,543,5000,2400
+KWAC-AM,1490,Bakersfield,CA,35.373292,-119.018712,800,"Bakersfield, CA",127,Spanish Sports,786,571,214,71,500,214,1100,0
+KEBT-FM,96.9,Lost Hills,CA,35.616349,-119.694294,800,"Bakersfield, CA",127,Regional Mexican,2214,1143,1071,857,1214,143,3100,0
+KTQX-FM,90.1,Bakersfield,CA,35.373292,-119.018712,800,"Bakersfield, CA",127,Spanish Talk,143,57,86,29,29,86,0,500
+KGZO-FM,90.9,Shafter,CA,35.500514,-119.271776,800,"Bakersfield, CA",127,Spanish Religious,3057,1343,1714,1029,1500,529,1000,8200
+KQMX-FM,105.7,Lost Hills,CA,35.616349,-119.694294,800,"Bakersfield, CA",127,Regional Mexican,0,0,0,0,0,0,0,0
+WISK-AM,990,Lawrenceville,GA,33.956215,-83.987962,524,"Atlanta, GA",9,Spanish Religious,0,0,0,0,0,0,0,0
+WBZY-FM,105.3,Bowdon,GA,33.537889,-85.253282,524,"Atlanta, GA",9,Regional Mexican,5071,3286,1786,2357,2143,571,7100,0
+KMMZ-FM,101.3,Crane,TX,31.397362,-102.350142,633,"Odessa-Midland, TX",150,Regional Mexican,2571,1514,1057,1443,671,457,2800,2000
+KPZA-FM,103.7,Jal,NM,32.113181,-103.193513,633,"Odessa-Midland, TX",150,Regional Mexican,0,0,0,0,0,0,0,0
+KERC-LP,93.7,Kermit,TX,31.857627,-103.092665,633,"Odessa-Midland, TX",150,Spanish Religious,0,0,0,0,0,0,0,0
+KVDG-FM,90.9,Midland,TX,31.997346,-102.077915,633,"Odessa-Midland, TX",150,Spanish Religious,800,614,186,0,29,771,200,2300
+KRAF-FM,88.3,Ft. Stockton,TX,30.894043,-102.879322,633,"Odessa-Midland, TX",150,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+WNTS-AM,1590,Beech Grove,IN,39.721988,-86.089985,527,"Indianapolis, IN",26,Spanish Hits,1314,657,657,286,329,700,1400,1100
+WSYW-AM,810,Indianapolis,IN,39.768403,-86.158068,527,"Indianapolis, IN",26,Spanish Oldies,643,286,357,143,100,400,300,1500
+WEDJ-FM,107.1,Danville,IN,39.760601,-86.526388,527,"Indianapolis, IN",26,Regional Mexican,2657,1471,1186,600,843,1214,1800,4800
+WACC-AM,830,Hialeah,FL,25.857596,-80.278106,528,"Miami-Ft. Lauderdale, FL",16,Spanish Religious,1514,814,700,100,200,1214,2000,300
+WAMR-FM,107.5,Miami,FL,25.788969,-80.226439,528,"Miami-Ft. Lauderdale, FL",16,Spanish Hits,17457,8857,8600,2214,4857,10386,24400,100
+WAQI-AM,710,Miami,FL,25.788969,-80.226439,528,"Miami-Ft. Lauderdale, FL",16,Spanish News-Talk,7857,5000,2857,500,643,6714,11000,0
+WWWK-FM,105.5,Islamorada,FL,24.924294,-80.627836,528,"Miami-Ft. Lauderdale, FL",16,Tropical,0,0,0,0,0,0,0,0
+WKAT-AM,1360,North Miami,FL,25.890095,-80.186714,528,"Miami-Ft. Lauderdale, FL",16,Spanish Religious,1229,629,600,29,171,1029,0,4300
+WQBA-AM,1140,Miami,FL,25.788969,-80.226439,528,"Miami-Ft. Lauderdale, FL",16,Spanish News-Talk,1357,929,429,71,357,929,1900,0
+WRTO-FM,98.3,Goulds,FL,25.562607,-80.382276,528,"Miami-Ft. Lauderdale, FL",16,Tropical,9071,5029,4043,2800,3357,2914,11900,2000
+WMGE-FM,94.9,Miami Beach,FL,25.790654,-80.130045,528,"Miami-Ft. Lauderdale, FL",16,Spanish CHR,9443,4486,4957,3029,3629,2786,13100,300
+WKIZ-AM,1500,Key West,FL,24.555059,-81.779987,528,"Miami-Ft. Lauderdale, FL",16,Spanish Religious,0,0,0,0,0,0,0,0
+VOA-AM,1180,Marathon,FL,24.750118,-80.987679,528,"Miami-Ft. Lauderdale, FL",16,Spanish,0,0,0,0,0,0,0,0
+WYMM-AM,1530,Jacksonville,FL,30.332184,-81.655651,561,"Jacksonville, FL",48,Regional Mexican,0,0,0,0,0,0,0,0
+WGUN-AM,950,Valdosta,GA,30.832702,-83.278485,530,"Tallahassee-Thomasville, FL",106,Regional Mexican,0,0,0,0,0,0,0,0
+WTCL-AM,1580,Chattahoochee,FL,30.705192,-84.842976,530,"Tallahassee-Thomasville, FL",106,Spanish Religious,0,0,0,0,0,0,0,0
+WHLY-AM,1580,South Bend,IN,41.676355,-86.25199,588,"South Bend-Elkhart, IN",96,Regional Mexican,0,0,0,0,0,0,0,0
+WSBL-LP,93.5,South Bend,IN,41.676355,-86.25199,588,"South Bend-Elkhart, IN",96,Spanish,0,0,0,0,0,0,0,0
+WLDC-LP,105.9,Goshen,IN,41.582272,-85.834438,588,"South Bend-Elkhart, IN",96,Spanish Religious,0,0,0,0,0,0,0,0
+WNEZ-AM,1230,Manchester,CT,41.77593,-72.521501,533,"Hartford & New Haven, CT",30,Romantica,3971,1829,2143,0,171,3800,0,13900
+WLAT-AM,910,New Britain,CT,41.66121,-72.779542,533,"Hartford & New Haven, CT",30,Tropical,786,429,357,0,500,286,1100,0
+WXCT-AM,990,Southington,CT,41.596487,-72.877601,533,"Hartford & New Haven, CT",30,Tropical,0,0,0,0,0,0,0,0
+WRYM-AM,840,New Britain,CT,41.66121,-72.779542,533,"Hartford & New Haven, CT",30,Tropical,13529,4557,8971,3200,2986,7343,700,45600
+WSGG-FM,89.3,Norfolk,CT,41.993983,-73.202058,533,"Hartford & New Haven, CT",30,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+WDLR-AM,1550,Delaware,OH,40.298672,-83.067965,535,"Columbus, OH",32,Regional Mexican,29,29,0,0,0,29,0,100
+WVKO-FM,103.1,Johnstown,OH,40.153674,-82.68517,535,"Columbus, OH",32,Regional Mexican,6757,2271,4486,2043,1743,2971,900,21400
+KCID-AM,1490,Caldwell,ID,43.662938,-116.68736,757,"Boise, ID",110,Spanish Religious,86,0,86,0,0,86,0,300
+KWEI-AM,1450,Notus,ID,43.725439,-116.801256,757,"Boise, ID",110,Regional Mexican,0,0,0,0,0,0,0,0
+KDBI-FM,101.9,Emmett,ID,43.873498,-116.499301,757,"Boise, ID",110,Regional Mexican,400,200,200,57,86,257,0,1400
+KMHR-AM,950,Boise,ID,43.61871,-116.214607,757,"Boise, ID",110,Regional Mexican,971,600,371,86,257,629,0,3400
+KQTA-FM,106.3,Homedale,ID,43.617658,-116.93376,757,"Boise, ID",110,Spanish CHR,0,0,0,0,0,0,0,0
+KGCL-FM,90.9,Jordan Valley,OR,42.974045,-117.054304,757,"Boise, ID",110,Spanish Religious,0,0,0,0,0,0,0,0
+KARJ-FM,88.3,Kuna,ID,43.491831,-116.420122,757,"Boise, ID",110,Spanish Religious,2943,914,2029,657,1143,1143,0,10300
+KYWN-AM,890,Meridian,ID,43.612109,-116.391513,757,"Boise, ID",110,Spanish Religious,0,0,0,0,0,0,0,0
+WHWS-LP,105.7,Geneva,NY,42.868955,-76.977744,538,"Rochester, NY",78,Spanish,0,0,0,0,0,0,0,0
+WLCC-AM,760,Brandon,FL,27.937801,-82.285925,539,"Tampa-St. Petersburg (Sarasota), FL",14,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+WBRD-AM,1420,Palmetto,FL,27.521427,-82.572319,539,"Tampa-St. Petersburg (Sarasota), FL",14,Regional Mexican,0,0,0,0,0,0,0,0
+WTMP-FM,96.1,Dade City,FL,28.364725,-82.195918,539,"Tampa-St. Petersburg (Sarasota), FL",14,Regional Mexican,1786,714,1071,429,786,571,2500,0
+WIPC-AM,1280,Lake Wales,FL,27.901413,-81.58591,539,"Tampa-St. Petersburg (Sarasota), FL",14,Spanish Religious,0,0,0,0,0,0,0,0
+WTMP-AM,1150,Egypt Lake,FL,28.016963,-82.495373,539,"Tampa-St. Petersburg (Sarasota), FL",14,Tropical,943,571,371,371,371,200,0,3300
+WYUU-FM,92.5,Safety Harbor,FL,27.990853,-82.693155,539,"Tampa-St. Petersburg (Sarasota), FL",14,Spanish CHR,1429,357,1071,1071,214,143,2000,0
+WVDV-LP,104.9,Sebring,FL,27.495592,-81.440907,539,"Tampa-St. Petersburg (Sarasota), FL",14,Spanish Religious,0,0,0,0,0,0,0,0
+WQRP-FM,89.5,Dayton,OH,39.758948,-84.191607,542,"Dayton, OH",64,Spanish Religious,0,0,0,0,0,0,0,0
+WACM-AM,1490,West Springfield,MA,42.107038,-72.620367,543,"Springfield-Holyoke, MA",114,Tropical,1843,800,1043,386,471,986,1500,2700
+WSPR-AM,1270,Springfield,MA,42.101483,-72.589811,543,"Springfield-Holyoke, MA",114,Tropical,3329,1429,1900,714,1143,1471,3100,3900
+WLHZ-LP,107.9,Springfield,MA,42.101483,-72.589811,543,"Springfield-Holyoke, MA",114,Spanish Religious,0,0,0,0,0,0,0,0
+WQCR-AM,1500,Alabaster,AL,33.244281,-86.816377,630,"Birmingham (Anniston-Tuscaloosa), AL",44,Spanish Adult Hits,114,57,57,29,0,86,0,400
+WBLR-AM,1430,Batesburg,SC,33.910143,-81.537326,546,"Columbia, SC",77,Spanish Religious,57,29,29,0,57,0,0,200
+WWPZ-LP,95.9,Newberry,SC,34.274583,-81.618718,546,"Columbia, SC",77,Spanish,0,0,0,0,0,0,0,0
+WBGF-FM,93.5,Belle Glade,FL,26.68451,-80.667558,548,"West Palm Beach-Ft. Pierce, FL",38,Regional Mexican,257,129,129,0,200,57,200,400
+WDJA-AM,1420,Delray Beach,FL,26.461463,-80.07282,548,"West Palm Beach-Ft. Pierce, FL",38,Spanish Contemporary Christian,457,257,200,0,0,457,0,1600
+WJNX-AM,1330,Ft. Pierce,FL,27.446706,-80.325606,548,"West Palm Beach-Ft. Pierce, FL",38,Spanish News-Talk,0,0,0,0,0,0,0,0
+WRLX-FM,92.1,West Palm Beach,FL,26.715342,-80.053375,548,"West Palm Beach-Ft. Pierce, FL",38,Spanish Hits,1714,857,857,500,714,500,2400,0
+WEFL-AM,760,Tequesta,FL,26.960784,-80.097366,548,"West Palm Beach-Ft. Pierce, FL",38,Spanish Sports,0,0,0,0,0,0,0,0
+WAFC-FM,106.1,Okeechobee,FL,27.243935,-80.829783,548,"West Palm Beach-Ft. Pierce, FL",38,Regional Mexican,1286,1000,286,857,286,143,1800,0
+KHHZ-FM,97.7,Gridley,CA,39.363777,-121.693583,868,"Chico-Redding, CA",132,Regional Mexican,214,143,71,214,0,0,300,0
+KSTN-FM,91.5,Redding,CA,40.58654,-122.391675,868,"Chico-Redding, CA",132,Spanish Religious,114,29,86,86,29,0,0,400
+KVYA-FM,88.9,Cedarville,CA,41.529167,-120.173333,868,"Chico-Redding, CA",132,Spanish Talk,0,0,0,0,0,0,0,0
+WVNZ-AM,1320,Richmond,VA,37.540725,-77.436048,556,"Richmond-Petersburg, VA",57,Spanish Hits,314,171,143,0,29,286,0,1100
+WTOX-AM,1480,Glen Allen,VA,37.665978,-77.506374,556,"Richmond-Petersburg, VA",57,Regional Mexican,0,0,0,0,0,0,0,0
+WKGN-AM,1340,Knoxville,TN,35.960638,-83.920739,557,"Knoxville, TN",61,Regional Mexican,0,0,0,0,0,0,0,0
+WKZX-FM,93.5,Lenoir City,TN,35.7973,-84.25603,557,"Knoxville, TN",61,Regional Mexican,0,0,0,0,0,0,0,0
+WCLY-AM,1550,Raleigh,NC,35.77959,-78.638179,560,"Raleigh-Durham (Fayetteville), NC",24,Spanish Sports,1286,771,514,429,314,543,0,4500
+WRJD-AM,1410,Durham,NC,35.994033,-78.898619,560,"Raleigh-Durham (Fayetteville), NC",24,Spanish Contemporary Christian,171,86,86,0,29,143,0,600
+WTIK-AM,1310,Durham,NC,35.994033,-78.898619,560,"Raleigh-Durham (Fayetteville), NC",24,Regional Mexican,371,214,157,143,0,229,200,800
+WGSF-AM,1030,Memphis,TN,35.149534,-90.04898,640,"Memphis, TN",50,Regional Mexican,0,0,0,0,0,0,0,0
+WCVD-LP,106.7,Cordova,TN,35.155921,-89.777425,640,"Memphis, TN",50,Spanish Religious,0,0,0,0,0,0,0,0
+KQMP-FM,89.7,Hollywood,MS,34.745378,-90.358154,640,"Memphis, TN",50,Spanish Religious,0,0,0,0,0,0,0,0
+WMFN-AM,640,Zeeland,MI,42.812525,-86.018651,563,"Grand Rapids-Kalamazoo-Battle Creek, MI",39,Spanish,1971,1257,714,200,771,1000,0,6900
+WLCH-FM,91.3,Lancaster,PA,40.037876,-76.305514,566,"Harrisburg-Lancaster-Lebanon-York, PA",43,Spanish Talk,0,0,0,0,0,0,0,0
+WDAB-AM,1580,Travelers Rest,SC,34.967617,-82.443455,647,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",37,Spanish Religious,0,0,0,0,0,0,0,0
+WCSZ-AM,1070,Sans Souci,SC,34.877895,-82.424011,647,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",37,Spanish,0,0,0,0,0,0,0,0
+WOLI-FM,103.9,Easley,SC,34.829838,-82.601521,647,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",37,Spanish Hits,0,0,0,0,0,0,0,0
+WZKQ-LP,105.3,Hodges,SC,34.287619,-82.244289,647,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",37,Spanish,0,0,0,0,0,0,0,0
+WJUA-AM,1200,Pine Island Center,FL,26.613686,-82.118148,571,"Ft. Myers-Naples, FL",62,Spanish Adult Hits,0,0,0,0,0,0,0,0
+WJBX-AM,770,North Ft. Myers,FL,26.667294,-81.880086,571,"Ft. Myers-Naples, FL",62,Spanish Sports,0,0,0,0,0,0,0,0
+WTLQ-FM,97.7,Punta Rassa,FL,26.487857,-82.012313,571,"Ft. Myers-Naples, FL",62,Spanish Hits,5429,2643,2786,1071,2714,1643,7600,0
+WZSP-FM,105.3,Nocatee,FL,30.105623,-81.424414,571,"Ft. Myers-Naples, FL",62,Regional Mexican,0,0,0,0,0,0,0,0
+WCIW-LP,107.9,Immokalee,FL,26.418525,-81.417406,571,"Ft. Myers-Naples, FL",62,Spanish,0,0,0,0,0,0,0,0
+WNPL-AM,1460,Golden Gate,FL,26.187867,-81.695085,571,"Ft. Myers-Naples, FL",62,Spanish Adult Hits,0,0,0,0,0,0,0,0
+WFMO-AM,860,Fairmont,NC,34.496831,-79.114202,570,"Myrtle Beach-Florence, SC",102,Regional Mexican,400,171,229,86,29,286,0,1400
+WQMT-FM,93.9,Decatur,TN,35.514794,-84.790222,575,"Chattanooga, TN",87,Spanish CHR,0,0,0,0,0,0,0,0
+WDAL-AM,1430,Dalton,GA,34.769802,-84.970223,575,"Chattanooga, TN",87,Spanish Sports,0,0,0,0,0,0,0,0
+WOCE-FM,101.9,Ringgold,GA,34.91591,-85.109117,575,"Chattanooga, TN",87,Regional Mexican,0,0,0,0,0,0,0,0
+KXWF-LP,107.9,Wichita Falls,TX,33.913709,-98.493387,678,"Wichita Falls & Lawton, TX-OK",144,Spanish Religious,0,0,0,0,0,0,0,0
+KPMA-FM,91.9,Archer City,TX,33.595659,-98.625613,678,"Wichita Falls & Lawton, TX-OK",144,Spanish Religious,0,0,0,0,0,0,0,0
+WKGC-AM,1480,Panama City Beach,FL,30.176591,-85.805488,656,"Panama City, FL",154,Spanish,0,0,0,0,0,0,0,0
+WAZS-AM,980,Summerville,SC,33.018504,-80.175648,519,"Charleston, SC",95,Spanish CHR,57,29,29,0,0,57,0,200
+WZJY-AM,1480,Mt. Pleasant,SC,32.832322,-79.828426,519,"Charleston, SC",95,Spanish CHR,0,0,0,0,0,0,0,0
+KVLJ-LP,99.5,Victoria,TX,28.805267,-97.003598,626,"Victoria, TX",203,Spanish Religious,0,0,0,0,0,0,0,0
+KPSO-FM,106.3,Falfurrias,TX,27.226987,-98.144171,600,"Corpus Christi, TX",129,Tejano,0,0,0,0,0,0,0,0
+KLHB-FM,105.5,Portland,TX,27.877246,-97.32388,600,"Corpus Christi, TX",129,Spanish Hits,3057,1786,1271,543,1571,943,2200,5200
+KSAB-FM,99.9,Robstown,TX,27.790303,-97.668884,600,"Corpus Christi, TX",129,Tejano,5771,3329,2443,1600,786,3386,7800,700
+KUNO-AM,1400,Corpus Christi,TX,27.800583,-97.396381,600,"Corpus Christi, TX",129,Spanish Adult Hits,2371,1157,1214,114,657,1600,800,6300
+KMJR-FM,98.3,Odem,TX,27.950574,-97.582217,600,"Corpus Christi, TX",129,Regional Mexican,1914,943,971,643,786,486,1400,3200
+KXVR-LP,107.9,Corpus Christi,TX,27.800583,-97.396381,600,"Corpus Christi, TX",129,Spanish Religious,0,0,0,0,0,0,0,0
+KRVP-FM,91.5,Falfurrias,TX,27.226987,-98.144171,600,"Corpus Christi, TX",129,Spanish Religious,0,0,0,0,0,0,0,0
+WAIT-AM,850,Crystal Lake,IL,42.241134,-88.316196,602,"Chicago, IL",3,Spanish Religious,1229,857,371,286,800,143,0,4300
+WVIX-FM,93.5,Lemont,IL,41.673642,-88.001726,602,"Chicago, IL",3,Spanish Urban,4029,2543,1486,1457,1571,1000,0,14100
+WPJX-AM,1500,Zion,IL,42.446132,-87.83285,602,"Chicago, IL",3,Spanish,0,0,0,0,0,0,0,0
+WKRS-AM,1220,Waukegan,IL,42.363633,-87.844794,602,"Chicago, IL",3,Spanish Sports,114,86,29,57,0,57,0,400
+WRTO-AM,1200,Chicago,IL,41.878114,-87.629798,602,"Chicago, IL",3,Spanish News-Talk,1214,500,714,0,500,714,1700,0
+WNUA-FM,95.5,Chicago,IL,41.878114,-87.629798,602,"Chicago, IL",3,Regional Mexican,11029,5957,5071,4786,3300,2943,15000,1100
+WOJO-FM,105.1,Evanston,IL,42.045072,-87.687697,602,"Chicago, IL",3,Regional Mexican,22214,13500,8714,6857,7500,7857,31100,0
+WVIV-FM,103.1,Highland Park,IL,42.181692,-87.800344,602,"Chicago, IL",3,Spanish Urban,6571,4071,2500,2714,2714,1143,9200,0
+WPPN-FM,106.7,Des Plaines,IL,42.033362,-87.883399,602,"Chicago, IL",3,Spanish Hits,14714,7071,7643,4143,6714,3857,20600,0
+WMBI-AM,1110,Chicago,IL,41.878114,-87.629798,602,"Chicago, IL",3,Spanish Religious,1000,571,429,71,71,857,1400,0
+WNTA-AM,1330,Rockford,IL,42.271131,-89.093995,610,"Rockford, IL",136,Spanish Hits,0,0,0,0,0,0,0,0
+WIJR-AM,880,Highland,IL,38.739492,-89.671201,609,"St. Louis, MO",21,Regional Mexican,0,0,0,0,0,0,0,0
+KBHC-AM,1260,Nashville,AR,33.945669,-93.847129,612,"Shreveport, LA",82,Regional Mexican,0,0,0,0,0,0,0,0
+KCUL-FM,92.3,Marshall,TX,32.544871,-94.367418,612,"Shreveport, LA",82,Regional Mexican,0,0,0,0,0,0,0,0
+KDQN-AM,1390,De Queen,AR,34.037892,-94.341317,612,"Shreveport, LA",82,Regional Mexican,0,0,0,0,0,0,0,0
+KIMP-AM,960,Mt. Pleasant,TX,33.156786,-94.968269,612,"Shreveport, LA",82,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KSYR-FM,92.1,Benton,LA,32.694868,-93.741845,612,"Shreveport, LA",82,Regional Mexican,143,0,143,0,143,0,200,0
+KXVI-LP,94.3,Winfield,TX,33.16734,-95.111884,612,"Shreveport, LA",82,Spanish Religious,0,0,0,0,0,0,0,0
+KMNV-AM,1400,St. Paul,MN,44.953703,-93.089958,613,"Minneapolis-St. Paul, MN",15,Regional Mexican,429,286,143,214,214,0,600,0
+WREY-AM,630,St. Paul,MN,44.953703,-93.089958,613,"Minneapolis-St. Paul, MN",15,Regional Mexican,929,571,357,643,286,0,1300,0
+WLKX-FM,95.9,Forest Lake,MN,45.278856,-92.985218,613,"Minneapolis-St. Paul, MN",15,Regional Mexican,0,0,0,0,0,0,0,0
+KMNQ-AM,1470,Brooklyn Park,MN,45.094132,-93.35634,613,"Minneapolis-St. Paul, MN",15,Regional Mexican,371,171,200,143,171,57,0,1300
+KBGY-FM,107.5,Faribault,MN,44.294964,-93.268827,613,"Minneapolis-St. Paul, MN",15,Regional Mexican,57,0,57,0,57,0,0,200
+KCZZ-AM,1480,Mission,KS,39.027783,-94.655791,616,"Kansas City, MO",31,Spanish Hits,0,0,0,0,0,0,0,0
+KDTD-AM,1340,Kansas City,KS,39.114053,-94.627464,616,"Kansas City, MO",31,Regional Mexican,729,371,357,471,143,114,500,1300
+KYYS-AM,1250,Kansas City,KS,39.114053,-94.627464,616,"Kansas City, MO",31,Regional Mexican,1071,500,571,286,571,214,1500,0
+KCTO-AM,1160,Cleveland,MO,38.679177,-94.593566,616,"Kansas City, MO",31,Spanish,86,57,29,29,29,29,0,300
+WRRD-AM,1510,Waukesha,WI,43.011678,-88.231481,617,"Milwaukee, WI",34,Spanish Sports,200,114,86,0,200,0,0,700
+WDDW-FM,104.7,Sturtevant,WI,42.698075,-87.894523,617,"Milwaukee, WI",34,Regional Mexican,2829,1543,1286,814,1129,886,2200,4400
+KGOL-AM,1180,Humble,TX,29.998831,-95.262155,618,"Houston, TX",10,Spanish Sports,1557,957,600,1043,314,200,1300,2200
+KLAT-AM,1010,Houston,TX,29.760193,-95.36939,618,"Houston, TX",10,Spanish News-Talk,471,171,300,71,171,229,500,400
+KLOL-FM,101.1,Houston,TX,29.760193,-95.36939,618,"Houston, TX",10,Spanish Hits,12586,5771,6814,6186,4329,2071,15300,5800
+KAMA-FM,104.9,Deer Park,TX,29.705228,-95.12382,618,"Houston, TX",10,Spanish Hits,29,0,29,0,0,29,0,100
+KOVE-FM,106.5,Galveston,TX,29.301348,-94.797696,618,"Houston, TX",10,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KLTN-FM,102.9,Houston,TX,29.760193,-95.36939,618,"Houston, TX",10,Regional Mexican,0,0,0,0,0,0,0,0
+KPTY-FM,105.3,Winnie,TX,29.820221,-94.384078,618,"Houston, TX",10,Spanish Hits,57,29,29,57,0,0,0,200
+KHCH-AM,1410,Huntsville,TX,30.723526,-95.550777,618,"Houston, TX",10,Spanish Religious,0,0,0,0,0,0,0,0
+KMAT-FM,105.1,Seadrift,TX,28.415281,-96.713593,618,"Houston, TX",10,Spanish Religious,0,0,0,0,0,0,0,0
+KHCB-AM,1400,League City,TX,29.507454,-95.09493,618,"Houston, TX",10,Spanish Religious,457,171,286,57,343,57,0,1600
+KQVI-FM,89.9,Cedar Lake,TX,28.901087,-95.636895,618,"Houston, TX",10,Spanish Religious,0,0,0,0,0,0,0,0
+KOTK-AM,1420,Omaha,NE,41.252363,-95.997988,652,"Omaha, NE",74,Spanish Contemporary Christian,114,114,0,86,0,29,0,400
+KBBX-FM,97.7,Nebraska City,NE,40.676575,-95.859362,652,"Omaha, NE",74,Regional Mexican,300,100,200,100,0,200,100,800
+KMMQ-AM,1020,Plattsmouth,NE,41.01111,-95.880842,652,"Omaha, NE",74,Regional Mexican,57,57,0,0,57,0,0,200
+KXMG-FM,107.5,Jean Lafitte,LA,29.736044,-90.126741,622,"New Orleans, LA",51,Spanish CHR,714,143,571,286,214,214,1000,0
+WFNO-AM,830,Norco,LA,29.999092,-90.412304,622,"New Orleans, LA",51,Regional Mexican,0,0,0,0,0,0,0,0
+WODT-AM,1280,New Orleans,LA,29.951066,-90.071532,622,"New Orleans, LA",51,Spanish Sports,0,0,0,0,0,0,0,0
+KESS-FM,107.1,Benbrook,TX,32.673188,-97.460576,623,"Dallas-Ft. Worth, TX",5,Spanish Hits,2429,1214,1214,2071,0,357,3400,0
+KFLC-AM,1270,Ft. Worth,TX,32.725409,-97.32085,623,"Dallas-Ft. Worth, TX",5,Spanish News-Talk,786,571,214,143,0,643,1100,0
+KDXX-FM,99.1,Denton,TX,33.214841,-97.133068,623,"Dallas-Ft. Worth, TX",5,Spanish Hits,643,429,214,429,0,214,900,0
+KTNO-AM,1440,University Park,TX,32.850084,-96.793108,623,"Dallas-Ft. Worth, TX",5,Spanish Contemporary Christian,786,429,357,571,143,71,1100,0
+KLNO-FM,94.1,Ft. Worth,TX,32.725409,-97.32085,623,"Dallas-Ft. Worth, TX",5,Regional Mexican,16771,11700,5071,7843,6929,2000,23400,200
+KMVK-FM,107.5,Ft. Worth,TX,32.725409,-97.32085,623,"Dallas-Ft. Worth, TX",5,Regional Mexican,10600,4900,5700,5100,3557,1943,12800,5100
+KJON-AM,850,Carrollton,TX,32.975642,-96.889964,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KSTV-AM,1510,Stephenville,TX,32.220696,-98.202263,623,"Dallas-Ft. Worth, TX",5,Regional Mexican,0,0,0,0,0,0,0,0
+KFCD-AM,990,Farmersville,TX,33.163449,-96.359982,623,"Dallas-Ft. Worth, TX",5,Spanish,86,57,29,29,57,0,0,300
+KWOW-FM,104.1,Clifton,TX,31.78238,-97.576686,623,"Dallas-Ft. Worth, TX",5,Regional Mexican,1029,529,500,357,286,386,1400,100
+KFZO-FM,107.9,Lewisville,TX,33.046233,-96.994174,623,"Dallas-Ft. Worth, TX",5,Regional Mexican,1214,729,486,743,114,357,1500,500
+KVVT-LP,95.1,Sulphur Springs,TX,33.138448,-95.601067,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KYLP-LP,101.5,Greenville,TX,33.138449,-96.110807,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KYFA-FM,91.5,Ginger,TX,26.140224,-97.669912,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KGPF-FM,91.1,Sulphur Springs,TX,33.138448,-95.601067,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KZRF-FM,91.9,Sulphur Springs,TX,33.138448,-95.601067,623,"Dallas-Ft. Worth, TX",5,Spanish Religious,0,0,0,0,0,0,0,0
+KAYL-AM,990,Storm Lake,IA,42.643036,-95.20194,624,"Sioux City, IA",147,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KOOV-FM,106.9,Kempner,TX,31.081007,-98.002525,625,"Waco-Temple-Bryan, TX",88,Regional Mexican,0,0,0,0,0,0,0,0
+KLRK-AM,1590,Mexia,TX,31.67989,-96.482203,625,"Waco-Temple-Bryan, TX",88,Regional Mexican,0,0,0,0,0,0,0,0
+KTAM-AM,1240,Bryan,TX,30.674364,-96.369963,625,"Waco-Temple-Bryan, TX",88,Regional Mexican,1314,571,743,643,386,286,1800,100
+KXZY-LP,100.7,Waco,TX,31.549333,-97.14667,625,"Waco-Temple-Bryan, TX",88,Spanish Religious,0,0,0,0,0,0,0,0
+KBZO-AM,1460,Lubbock,TX,33.577863,-101.855166,651,"Lubbock, TX",143,Spanish Adult Hits,229,57,171,57,57,114,0,800
+KTXC-FM,104.7,Lamesa,TX,32.7376,-101.950992,651,"Lubbock, TX",143,Regional Mexican,2743,1400,1343,986,1086,671,1800,5100
+KXTQ-FM,93.7,Lubbock,TX,33.577863,-101.855166,651,"Lubbock, TX",143,Tejano,857,286,571,143,214,500,1200,0
+KAIQ-FM,95.5,Wolfforth,TX,33.505919,-102.009057,651,"Lubbock, TX",143,Regional Mexican,214,143,71,143,0,71,300,0
+KISF-FM,103.5,Las Vegas,NV,36.114646,-115.172816,839,"Las Vegas, NV",42,Regional Mexican,2386,986,1400,1357,86,943,2500,2100
+KENO-AM,1460,Las Vegas,NV,36.114646,-115.172816,839,"Las Vegas, NV",42,Spanish Sports,1171,829,343,586,57,529,1000,1600
+KWID-FM,101.9,Las Vegas,NV,36.114646,-115.172816,839,"Las Vegas, NV",42,Spanish Classic Hits,5971,3486,2486,1557,2386,2029,6600,4400
+KLSQ-AM,870,Whitney,NV,36.09669,-115.040741,839,"Las Vegas, NV",42,Spanish News-Talk,314,157,157,71,29,214,200,600
+KQRT-FM,105.1,Las Vegas,NV,36.114646,-115.172816,839,"Las Vegas, NV",42,Regional Mexican,2300,1529,771,1029,1057,214,3100,300
+KRRN-FM,92.7,Moapa Valley,NV,36.58053,-114.470259,839,"Las Vegas, NV",42,Regional Mexican,2814,1671,1143,1729,671,414,2700,3100
+KRLV-AM,1340,Las Vegas,NV,36.114646,-115.172816,839,"Las Vegas, NV",42,Spanish Talk,357,214,143,214,143,0,500,0
+KRGT-FM,99.3,Indian Springs,NV,36.569683,-115.670576,839,"Las Vegas, NV",42,Spanish Urban,4329,1857,2471,1714,1129,1486,4100,4900
+KAIZ-FM,90.9,Mesquite,NV,36.805531,-114.06719,839,"Las Vegas, NV",42,Spanish Religious,57,0,57,29,29,0,0,200
+KXLI-FM,94.5,Moapa,NV,36.682194,-114.594155,839,"Las Vegas, NV",42,Spanish CHR,500,286,214,357,143,0,700,0
+KCAH-LP,107.9,Carthage,MO,37.176447,-94.310223,603,"Joplin-Pittsburg, MO-KS",152,Spanish Religious,0,0,0,0,0,0,0,0
+KGRW-FM,94.7,Friona,TX,34.641734,-102.724105,634,"Amarillo, TX",130,Regional Mexican,0,0,0,0,0,0,0,0
+KQFX-FM,104.3,Borger,TX,35.66782,-101.397388,634,"Amarillo, TX",130,Regional Mexican,4114,2314,1800,971,1200,1943,1400,10900
+KWKA-AM,680,Clovis,NM,34.404799,-103.205227,634,"Amarillo, TX",130,Spanish,0,0,0,0,0,0,0,0
+KBEX-FM,96.1,Dalhart,TX,36.059477,-102.51325,634,"Amarillo, TX",130,Regional Mexican,0,0,0,0,0,0,0,0
+KZIP-AM,1310,Amarillo,TX,35.221997,-101.831297,634,"Amarillo, TX",130,Spanish Oldies,0,0,0,0,0,0,0,0
+KXZX-LP,106.5,Juilliard,TX,35.318662,-101.809628,634,"Amarillo, TX",130,Spanish Religious,0,0,0,0,0,0,0,0
+KKNM-FM,96.5,Bovina,TX,34.513682,-102.882998,634,"Amarillo, TX",130,Spanish Oldies,0,0,0,0,0,0,0,0
+KYCL-FM,88.9,Clarendon,TX,34.937829,-100.888199,634,"Amarillo, TX",130,Spanish Religious,0,0,0,0,0,0,0,0
+KZES-FM,91.3,Estelline,TX,34.546725,-100.438176,634,"Amarillo, TX",130,Spanish Religious,0,0,0,0,0,0,0,0
+KPCV-FM,91.7,Portales,NM,34.186192,-103.334398,634,"Amarillo, TX",130,Spanish Religious,0,0,0,0,0,0,0,0
+KBEX-LP,87.7,Amarillo,TX,35.221997,-101.831297,634,"Amarillo, TX",130,Tejano,0,0,0,0,0,0,0,0
+WVXX-AM,1050,Norfolk,VA,36.850769,-76.285873,544,"Norfolk-Portsmouth-Newport News, VA",45,Spanish Hits,2743,1114,1629,543,400,1800,0,9600
+KRIO-FM,97.7,Roma,TX,26.406111,-99.005556,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Religious,229,0,229,0,57,171,0,800
+KGBT-AM,1530,Harlingen,TX,26.190631,-97.696103,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish News-Talk,1586,614,971,0,229,1357,1900,800
+KBTQ-FM,96.1,Harlingen,TX,26.190631,-97.696103,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Adult Hits,4886,2000,2886,1000,0,3886,6800,100
+KKPS-FM,99.5,Brownsville,TX,25.901747,-97.497484,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Regional Mexican,3300,1186,2114,1471,57,1771,4100,1300
+KGBT-FM,98.5,McAllen,TX,26.203407,-98.230012,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Regional Mexican,0,0,0,0,0,0,0,0
+KNVO-FM,101.1,Port Isabel,TX,26.073412,-97.208584,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Adult Hits,1429,857,571,214,786,429,2000,0
+KBNR-FM,88.3,Brownsville,TX,25.901747,-97.497484,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Contemporary Christian,1114,629,486,414,257,443,600,2400
+KOIR-FM,88.5,Edinburg,TX,26.301737,-98.163343,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Religious,1357,143,1214,286,429,643,1900,0
+KRIO-AM,910,McAllen,TX,26.203407,-98.230012,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Religious,500,0,500,71,357,71,700,0
+KCYP-LP,97.7,Mission,TX,26.215907,-98.325293,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KRGX-FM,95.1,Rio Grande City,TX,26.379787,-98.820305,636,"Harlingen-Weslaco-Brownsville-McAllen, TX",86,Regional Mexican,0,0,0,0,0,0,0,0
+WTUV-AM,620,Louisville,KY,38.252665,-85.758456,529,"Louisville, KY",49,Regional Mexican,0,0,0,0,0,0,0,0
+WTUV-FM,105.7,Eminence,KY,38.370068,-85.18051,529,"Louisville, KY",49,Regional Mexican,0,0,0,0,0,0,0,0
+KWMF-AM,1380,Pleasanton,TX,28.967194,-98.478627,641,"San Antonio, TX",36,Spanish Religious,257,143,114,114,86,57,0,900
+KCOR-AM,1350,San Antonio,TX,29.424122,-98.493628,641,"San Antonio, TX",36,Spanish News-Talk,614,214,400,143,0,471,700,400
+KLTO-AM,1230,Del Rio,TX,29.370886,-100.895867,641,"San Antonio, TX",36,Spanish Hits,0,0,0,0,0,0,0,0
+KROM-FM,92.9,San Antonio,TX,29.424122,-98.493628,641,"San Antonio, TX",36,Regional Mexican,457,314,143,0,0,457,0,1600
+KSAH-AM,720,Universal City,TX,29.548007,-98.291124,641,"San Antonio, TX",36,Spanish Sports,2957,1357,1600,371,714,1871,100,10100
+KVWG-FM,95.3,Dilley,TX,28.66748,-99.170589,641,"San Antonio, TX",36,Tejano,0,0,0,0,0,0,0,0
+KXTN-FM,107.5,San Antonio,TX,29.424122,-98.493628,641,"San Antonio, TX",36,Tejano,214,143,71,0,143,71,300,0
+KGSX-FM,95.1,Comfort,TX,29.967715,-98.905034,641,"San Antonio, TX",36,Spanish Urban,1843,671,1171,1457,29,357,2500,200
+KLEY-FM,95.7,Jourdanton,TX,28.918029,-98.546407,641,"San Antonio, TX",36,Regional Mexican,1414,757,657,700,143,571,1300,1700
+KHKV-FM,91.1,Kerrville,TX,30.047433,-99.140319,641,"San Antonio, TX",36,Spanish Religious,0,0,0,0,0,0,0,0
+KEPX-FM,89.5,Eagle Pass,TX,28.709143,-100.499521,641,"San Antonio, TX",36,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KBIB-AM,1000,Marion,TX,29.57134,-98.140286,641,"San Antonio, TX",36,Spanish Religious,514,171,343,86,171,257,0,1800
+KSAH-FM,104.1,Pearsall,TX,28.892194,-99.095033,641,"San Antonio, TX",36,Regional Mexican,2757,1900,857,900,1214,643,3700,400
+KHHL-FM,103.1,Karnes City,TX,28.884977,-97.900835,641,"San Antonio, TX",36,Spanish Sports,0,0,0,0,0,0,0,0
+KRNZ-FM,88.1,Gonzales,TX,29.501626,-97.452493,641,"San Antonio, TX",36,Spanish Religious,0,0,0,0,0,0,0,0
+KKDL-FM,93.7,Dilley,TX,28.66748,-99.170589,641,"San Antonio, TX",36,Spanish Religious,0,0,0,0,0,0,0,0
+KYRQ-FM,90.3,Natalia,TX,29.189684,-98.862527,641,"San Antonio, TX",36,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KQBI-FM,91.7,Encinal,TX,28.041117,-99.354479,641,"San Antonio, TX",36,Spanish Religious,0,0,0,0,0,0,0,0
+KRZU-FM,90.7,Batesville,TX,28.951081,-99.617829,641,"San Antonio, TX",36,Spanish Talk,0,0,0,0,0,0,0,0
+KZTB-FM,97.9,Milton-Freewater,OR,45.932635,-118.387743,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Regional Mexican,1614,957,657,686,700,229,1100,2900
+KMMG-FM,96.7,Benton City,WA,46.26319,-119.487802,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Spanish CHR,1657,871,786,829,600,229,600,4300
+KZTA-FM,96.9,Naches,WA,46.730958,-120.699516,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Regional Mexican,143,143,0,0,143,0,200,0
+KDYK-AM,1020,Union Gap,WA,46.557349,-120.475064,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Spanish Adult Hits,771,471,300,543,229,0,200,2200
+KLES-FM,101.7,Prosser,WA,46.2068,-119.768922,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Regional Mexican,786,286,500,429,0,357,1100,0
+KDNA-FM,91.9,Yakima,WA,46.602071,-120.505899,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Spanish,714,429,286,143,0,571,1000,0
+KMNA-FM,98.7,Mabton,WA,46.214853,-119.996708,810,"Yakima-Pasco-Richland-Kennewick, WA",124,Regional Mexican,1743,1071,671,671,757,314,1400,2600
+KSLO-FM,105.3,Simmesport,LA,30.983516,-91.800119,644,"Alexandria, LA",179,Spanish Adult Hits,0,0,0,0,0,0,0,0
+WLMV-AM,1480,Madison,WI,43.073052,-89.40123,669,"Madison, WI",83,Spanish Hits,314,171,143,29,286,0,0,1100
+WTTN-AM,1580,Columbus,WI,43.338046,-89.015387,669,"Madison, WI",83,Spanish Sports,0,0,0,0,0,0,0,0
+KTUZ-FM,106.7,Okarche,OK,35.72588,-97.976441,650,"Oklahoma City, OK",41,Regional Mexican,4643,3200,1443,2329,1886,429,6300,500
+KZUE-AM,1460,El Reno,OK,35.532274,-97.955049,650,"Oklahoma City, OK",41,Regional Mexican,0,0,0,0,0,0,0,0
+WKY-AM,930,Oklahoma City,OK,35.46756,-97.516428,650,"Oklahoma City, OK",41,Regional Mexican,6300,3371,2929,1643,1671,2986,4700,10300
+KAMG-LP,92.1,Enid,OK,36.395589,-97.878391,650,"Oklahoma City, OK",41,Spanish Religious,0,0,0,0,0,0,0,0
+WXSH-FM,106.1,Pocomoke City,MD,38.075677,-75.56798,576,"Salisbury, MD",142,Spanish CHR,0,0,0,0,0,0,0,0
+WJWL-AM,900,Georgetown,DE,38.690113,-75.385473,576,"Salisbury, MD",142,Spanish CHR,686,371,314,57,229,400,0,2400
+WYUS-AM,930,Milford,DE,38.912613,-75.427975,576,"Salisbury, MD",142,Spanish Hits,0,0,0,0,0,0,0,0
+KQMO-FM,97.7,Shell Knob,MO,36.608833,-93.617538,619,"Springfield, MO",75,Regional Mexican,0,0,0,0,0,0,0,0
+WMGC-AM,810,Murfreesboro,TN,35.845621,-86.39027,659,"Nashville, TN",29,Regional Mexican,143,71,71,143,0,0,200,0
+WNVL-AM,1240,Nashville,TN,36.166667,-86.783333,659,"Nashville, TN",29,Regional Mexican,286,143,143,71,214,0,400,0
+WMDB-AM,880,Nashville,TN,36.166667,-86.783333,659,"Nashville, TN",29,Ranchero,214,71,143,214,0,0,300,0
+KOAQ-AM,690,Terrytown,NE,41.847468,-103.66161,759,"Cheyenne, WY-Scottsbluff, NE",196,Regional Mexican,0,0,0,0,0,0,0,0
+WSCP-AM,1070,Sandy Creek,NY,43.644235,-76.086034,555,"Syracuse, NY",85,Spanish Sports,171,57,114,0,0,171,0,600
+KFFK-AM,1390,Rogers,AR,36.33202,-94.118537,670,"Ft. Smith-Fayetteville-Springdale-Rogers, AR",101,Regional Mexican,0,0,0,0,0,0,0,0
+KYNG-AM,1590,Springdale,AR,36.186744,-94.128814,670,"Ft. Smith-Fayetteville-Springdale-Rogers, AR",101,Regional Mexican,0,0,0,0,0,0,0,0
+KREU-FM,92.3,Roland,OK,35.421202,-94.514662,670,"Ft. Smith-Fayetteville-Springdale-Rogers, AR",101,Regional Mexican,543,343,200,414,57,71,600,400
+KSEC-FM,95.7,Bentonville,AR,36.372854,-94.208817,670,"Ft. Smith-Fayetteville-Springdale-Rogers, AR",101,Regional Mexican,3200,1671,1529,971,1586,643,3000,3700
+WZUP-FM,104.7,La Grange,NC,35.306829,-77.788034,545,"Greenville-New Bern-Washington, NC",99,Regional Mexican,1286,886,400,514,657,114,0,4500
+KEOR-AM,1120,Catoosa,OK,36.188987,-95.745817,671,"Tulsa, OK",60,Spanish Religious,0,0,0,0,0,0,0,0
+KZLI-AM,1570,Catoosa,OK,36.188987,-95.745817,671,"Tulsa, OK",60,Spanish CHR,286,114,171,143,143,0,0,1000
+KRVT-AM,1270,Claremore,OK,36.312596,-95.61609,671,"Tulsa, OK",60,Regional Mexican,1371,714,657,229,600,543,800,2800
+KIZS-FM,101.5,Collinsville,OK,36.364538,-95.838877,671,"Tulsa, OK",60,Spanish Adult Hits,729,371,357,471,114,143,700,800
+WGCN-FM,90.5,Nashville,GA,31.20742,-83.250155,525,"Albany, GA",151,Spanish Religious,0,0,0,0,0,0,0,0
+WKAX-AM,1500,Russellville,AL,34.507873,-87.728643,691,"Huntsville-Decatur (Florence), AL",79,Spanish Hits,0,0,0,0,0,0,0,0
+WQRX-AM,870,Valley Head,AL,34.568973,-85.614965,691,"Huntsville-Decatur (Florence), AL",79,Spanish Religious,0,0,0,0,0,0,0,0
+WYAM-AM,890,Hartselle,AL,34.443428,-86.935284,691,"Huntsville-Decatur (Florence), AL",79,Regional Mexican,0,0,0,0,0,0,0,0
+WWGC-AM,1090,Albertville,AL,34.267594,-86.208867,691,"Huntsville-Decatur (Florence), AL",79,Regional Mexican,0,0,0,0,0,0,0,0
+KQBU-FM,93.3,Port Arthur,TX,29.88495,-93.939947,692,"Beaumont-Port Arthur, TX",141,Regional Mexican,357,214,143,214,71,71,500,0
+KZTD-AM,1350,Cabot,AR,34.974532,-92.016534,693,"Little Rock-Pine Bluff, AR",56,Regional Mexican,371,200,171,57,257,57,0,1300
+KTUV-AM,1440,Little Rock,AR,34.746481,-92.289595,693,"Little Rock-Pine Bluff, AR",56,Regional Mexican,386,214,171,286,100,0,500,100
+KOLL-FM,106.3,Lonoke,AR,34.78398,-91.899861,693,"Little Rock-Pine Bluff, AR",56,Regional Mexican,0,0,0,0,0,0,0,0
+WKTM-FM,106.1,Soperton,GA,32.377118,-82.592355,503,"Macon, GA",118,Spanish Religious,0,0,0,0,0,0,0,0
+WJDS-FM,88.7,Sparta,GA,33.275701,-82.976259,503,"Macon, GA",118,Spanish Religious,0,0,0,0,0,0,0,0
+KHIT-AM,1450,Reno,NV,39.529633,-119.813803,811,"Reno, NV",107,Spanish Sports,0,0,0,0,0,0,0,0
+KRNV-FM,102.1,Reno,NV,39.529633,-119.813803,811,"Reno, NV",107,Regional Mexican,2071,1357,714,1214,500,357,2900,0
+KMPA-FM,103.1,Pittsburg,TX,32.995402,-94.965769,709,"Tyler-Longview (Lufkin-Nacogdoches), TX",107,Regional Mexican,2686,1386,1300,1157,1214,314,1400,5900
+KYZS-AM,1490,Tyler,TX,32.35126,-95.301062,709,"Tyler-Longview (Lufkin-Nacogdoches), TX",107,Spanish Sports,400,200,200,171,200,29,0,1400
+KLNA-LP,100.5,Pittsburg,TX,32.995402,-94.965769,709,"Tyler-Longview (Lufkin-Nacogdoches), TX",107,Spanish Religious,0,0,0,0,0,0,0,0
+KPIT-FM,91.7,Pittsburg,TX,32.995402,-94.965769,709,"Tyler-Longview (Lufkin-Nacogdoches), TX",107,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KZXM-FM,94.3,Bullard,TX,32.13988,-95.320229,709,"Tyler-Longview (Lufkin-Nacogdoches), TX",107,Regional Mexican,0,0,0,0,0,0,0,0
+KRIQ-FM,88.9,Richton,MS,31.349343,-88.940049,710,"Hattiesburg-Laurel, MS",167,Spanish Religious,0,0,0,0,0,0,0,0
+KDDK-FM,105.5,Addis,LA,30.353804,-91.265386,716,"Baton Rouge, LA",93,Spanish Hits,0,0,0,0,0,0,0,0
+WWRA-FM,91.9,Clinton,LA,30.865736,-91.015659,716,"Baton Rouge, LA",93,Spanish Religious,0,0,0,0,0,0,0,0
+KPTJ-FM,104.5,Grape Creek,TX,31.589878,-100.543153,661,"San Angelo, TX",198,Tejano,0,0,0,0,0,0,0,0
+KPDE-FM,91.5,Eden,TX,31.216276,-99.845628,661,"San Angelo, TX",198,Spanish Religious,0,0,0,0,0,0,0,0
+KAPR-AM,930,Douglas,AZ,31.344547,-109.545345,789,"Tucson (Sierra Vista), AZ",71,Spanish,0,0,0,0,0,0,0,0
+KDAP-AM,1450,Douglas,AZ,31.344547,-109.545345,789,"Tucson (Sierra Vista), AZ",71,Spanish Religious,0,0,0,0,0,0,0,0
+KSAZ-AM,580,Marana,AZ,32.436381,-111.222442,789,"Tucson (Sierra Vista), AZ",71,Spanish Religious,1286,657,629,457,514,314,0,4500
+KTKT-AM,990,Tucson,AZ,32.221743,-110.926479,789,"Tucson (Sierra Vista), AZ",71,Spanish Sports,5914,3829,2086,2914,1457,1543,0,20700
+KTZR-AM,1450,Tucson,AZ,32.221743,-110.926479,789,"Tucson (Sierra Vista), AZ",71,Spanish Adult Hits,871,557,314,71,529,271,1100,300
+KXEW-AM,1600,South Tucson,AZ,32.199521,-110.968425,789,"Tucson (Sierra Vista), AZ",71,Tejano,1286,786,500,214,429,643,1800,0
+KZLZ-FM,105.3,Casas Adobes,AZ,32.323408,-110.995097,789,"Tucson (Sierra Vista), AZ",71,Regional Mexican,2357,1214,1143,1214,571,571,3300,0
+KNOG-FM,91.7,Nogales,AZ,31.340378,-110.934253,789,"Tucson (Sierra Vista), AZ",71,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KRMC-FM,91.7,Douglas,AZ,31.344547,-109.545345,789,"Tucson (Sierra Vista), AZ",71,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KRMB-FM,90.1,Bisbee,AZ,31.448155,-109.928408,789,"Tucson (Sierra Vista), AZ",71,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KCMT-FM,102.1,Oro Valley,AZ,32.390907,-110.966488,789,"Tucson (Sierra Vista), AZ",71,Regional Mexican,3200,529,2671,2143,29,1029,4400,200
+KREE-FM,88.1,Pirtleville,AZ,31.357047,-109.561734,789,"Tucson (Sierra Vista), AZ",71,Spanish Talk,0,0,0,0,0,0,0,0
+KQUR-FM,94.9,Laredo,TX,27.506407,-99.507542,749,"Laredo, TX",184,Spanish CHR,2629,1443,1186,914,1357,357,1800,4700
+KBNL-FM,89.9,Laredo,TX,27.506407,-99.507542,749,"Laredo, TX",184,Spanish Contemporary Christian,957,200,757,414,114,429,900,1100
+KNRV-AM,1150,Englewood,CO,39.647765,-104.98776,751,"Denver, CO",17,Spanish News-Talk,1371,857,514,429,286,657,0,4800
+KJMN-FM,92.1,Castle Rock,CO,39.372212,-104.85609,751,"Denver, CO",17,Spanish Adult Hits,3471,2200,1271,2500,57,914,4700,400
+KXPK-FM,96.5,Evergreen,CO,39.633321,-105.317215,751,"Denver, CO",17,Regional Mexican,5929,3357,2571,2500,2357,1071,8300,0
+KMXA-AM,1090,Aurora,CO,39.729432,-104.83192,751,"Denver, CO",17,Romantica,6914,3371,3543,3857,2686,371,200,23700
+KPVW-FM,107.1,Aspen,CO,39.191098,-106.817539,751,"Denver, CO",17,Regional Mexican,0,0,0,0,0,0,0,0
+KRKY-FM,102.1,Estes Park,CO,40.377206,-105.521665,751,"Denver, CO",17,Regional Mexican,0,0,0,0,0,0,0,0
+KBJD-AM,1650,Denver,CO,39.737567,-104.984718,751,"Denver, CO",17,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KQSE-FM,102.5,Gypsum,CO,39.64693,-106.951711,751,"Denver, CO",17,Spanish,0,0,0,0,0,0,0,0
+KOCA-LP,93.5,Laramie,WY,41.311367,-105.591101,751,"Denver, CO",17,Spanish,0,0,0,0,0,0,0,0
+KTUN-FM,94.5,New Castle,CO,39.572759,-107.536444,751,"Denver, CO",17,Spanish,0,0,0,0,0,0,0,0
+KHUI-FM,89.1,Alamosa,CO,37.469449,-105.870021,751,"Denver, CO",17,Spanish Talk,0,0,0,0,0,0,0,0
+KXDP-LP,87.7,Denver,CO,39.737567,-104.984718,751,"Denver, CO",17,Spanish Sports,0,0,0,0,0,0,0,0
+KRYE-FM,104.9,Rye,CO,37.923619,-104.930266,752,"Colorado Springs-Pueblo, CO",89,Regional Mexican,343,29,314,129,143,71,400,200
+KDDS-FM,99.3,Elma,WA,47.003429,-123.408769,819,"Seattle-Tacoma, WA",13,Regional Mexican,643,357,286,357,0,286,900,0
+KBRO-AM,1490,Bremerton,WA,47.56732,-122.632936,819,"Seattle-Tacoma, WA",13,Spanish Sports,57,0,57,0,57,0,0,200
+KMIA-AM,1210,Auburn-Federal Way,WA,47.322516,-122.320609,819,"Seattle-Tacoma, WA",13,Spanish CHR,214,214,0,143,0,71,300,0
+KKMO-AM,1360,Tacoma,WA,47.252877,-122.444291,819,"Seattle-Tacoma, WA",13,Regional Mexican,486,300,186,71,143,271,400,700
+KNTB-AM,1480,Lakewood,WA,30.810192,-121.536292,819,"Seattle-Tacoma, WA",13,Spanish Sports,314,143,171,0,114,200,0,1100
+KLDY-AM,1280,Lacey,WA,47.034263,-122.823191,819,"Seattle-Tacoma, WA",13,Spanish Sports,257,86,171,57,86,114,0,900
+KWWX-FM,106.7,Cashmere,WA,47.522347,-120.469802,819,"Seattle-Tacoma, WA",13,Spanish Adult Hits,471,271,200,143,243,86,500,400
+KNTS-AM,1680,Seattle,WA,47.60621,-122.332071,819,"Seattle-Tacoma, WA",13,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KEJI-FM,91.5,Darrington,WA,48.255387,-121.601514,819,"Seattle-Tacoma, WA",13,Spanish Religious,0,0,0,0,0,0,0,0
+KIGO-AM,1420,St. Anthony,ID,43.966301,-111.682185,758,"Idaho Falls-Pocatello, ID",162,Regional Mexican,0,0,0,0,0,0,0,0
+KEJY-AM,790,Eureka,CA,40.802071,-124.163673,802,"Eureka, CA",195,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KWST-AM,1430,El Centro,CA,32.792,-115.563051,771,"Yuma-El Centro, AZ-CA",166,Spanish Religious,0,0,0,0,0,0,0,0
+KGBA-AM,1490,Heber,CA,32.730891,-115.529718,771,"Yuma-El Centro, AZ-CA",166,Spanish Religious,0,0,0,0,0,0,0,0
+KMXX-FM,99.3,Imperial,CA,32.847553,-115.569439,771,"Yuma-El Centro, AZ-CA",166,Regional Mexican,0,0,0,0,0,0,0,0
+KSEH-FM,94.5,Brawley,CA,32.978657,-115.530267,771,"Yuma-El Centro, AZ-CA",166,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KUBO-FM,88.7,Calexico,CA,32.678948,-115.498883,771,"Yuma-El Centro, AZ-CA",166,Spanish Talk,0,0,0,0,0,0,0,0
+KYRM-FM,91.9,Yuma,AZ,32.692651,-114.627692,771,"Yuma-El Centro, AZ-CA",166,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
+KZYU-FM,91.7,Wellton,AZ,32.672826,-114.146882,771,"Yuma-El Centro, AZ-CA",166,Spanish Religious,0,0,0,0,0,0,0,0
+KAMA-AM,750,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish Talk,714,214,500,0,0,714,800,500
+KQBU-AM,920,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish News-Talk,0,0,0,0,0,0,0,0
+KBNA-FM,97.5,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Regional Mexican,3214,1671,1543,1200,86,1929,4100,1000
+KXPL-AM,1060,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish News-Talk,400,229,171,286,114,0,0,1400
+KINT-FM,93.9,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish Adult Hits,4300,2143,2157,500,57,3743,5900,300
+KYSE-FM,94.7,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Regional Mexican,3300,1471,1829,1214,957,1129,4100,1300
+KRUC-FM,88.9,Las Cruces,NM,32.31994,-106.763654,765,"El Paso (Las Cruces), TX",91,Spanish Contemporary Christian,429,57,371,0,300,129,200,1000
+KSVE-AM,1650,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish Sports,857,343,514,29,29,800,0,3000
+KVER-FM,91.1,El Paso,TX,31.75872,-106.486931,765,"El Paso (Las Cruces), TX",91,Spanish Contemporary Christian,957,314,643,143,143,671,1300,100
+KTUB-AM,1600,Centerville,UT,40.918001,-111.87216,770,"Salt Lake City, UT",33,Spanish Adult Hits,300,143,157,29,100,171,100,800
+KNIV-FM,104.7,Lyman,WY,41.327451,-110.292932,770,"Salt Lake City, UT",33,Regional Mexican,1457,986,471,1171,57,229,1800,600
+KBMG-FM,106.1,Evanston,WY,41.268279,-110.963237,770,"Salt Lake City, UT",33,Spanish CHR,743,529,214,586,86,71,800,600
+KOGN-AM,1490,Ogden,UT,41.223,-111.97383,770,"Salt Lake City, UT",33,Regional Mexican,0,0,0,0,0,0,0,0
+KBJA-AM,1640,Sandy,UT,40.5725,-111.859722,770,"Salt Lake City, UT",33,Spanish News-Talk,371,57,314,200,86,86,0,1300
+KDUT-FM,102.3,Randolph,UT,41.665776,-111.182141,770,"Salt Lake City, UT",33,Regional Mexican,1057,729,329,729,86,243,1200,700
+KFUR-LP,101.1,St. George,UT,37.095278,-113.578056,770,"Salt Lake City, UT",33,Regional Mexican,0,0,0,0,0,0,0,0
+KKHR-FM,106.3,Abilene,TX,32.448736,-99.733144,662,"Abilene-Sweetwater, TX",165,Spanish Hits,600,414,186,214,57,329,600,600
+KMXO-AM,1500,Taylor,TX,30.570755,-97.409444,662,"Abilene-Sweetwater, TX",165,Spanish Religious,457,229,229,257,200,0,0,1600
+KVVO-LP,94.1,Abilene,TX,32.448736,-99.733144,662,"Abilene-Sweetwater, TX",165,Spanish Religious,0,0,0,0,0,0,0,0
+KBGT-FM,93.3,Buffalo Gap,TX,32.279297,-99.830089,662,"Abilene-Sweetwater, TX",165,Tejano,0,0,0,0,0,0,0,0
+KQOS-FM,91.7,Albany,TX,32.723452,-99.2973,662,"Abilene-Sweetwater, TX",165,Spanish Religious,0,0,0,0,0,0,0,0
+WAUN-FM,92.7,Kewaunee,WI,44.458332,-87.50314,658,"Green Bay-Appleton, WI",70,Regional Mexican,0,0,0,0,0,0,0,0
+WLWB-AM,1530,New Holstein,WI,43.949992,-88.084264,658,"Green Bay-Appleton, WI",70,Regional Mexican,0,0,0,0,0,0,0,0
+KLVO-FM,97.7,Belen,NM,34.662765,-106.776155,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,500,286,214,286,0,214,700,0
+KRZY-FM,105.9,Santa Fe,NM,35.686975,-105.937799,790,"Albuquerque-Santa Fe, NM",47,Spanish Adult Hits,1714,1000,714,214,786,714,2400,0
+KRZE-AM,1280,Farmington,NM,36.728058,-108.218686,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,0,0,0,0,0,0,0,0
+KKRG-FM,101.3,Albuquerque,NM,35.110703,-106.609991,790,"Albuquerque-Santa Fe, NM",47,Spanish Urban,2471,914,1557,1386,400,686,1100,5900
+KRZY-AM,1450,Albuquerque,NM,35.110703,-106.609991,790,"Albuquerque-Santa Fe, NM",47,Spanish Sports,2257,1571,686,971,1000,286,0,7900
+KKVS-FM,98.7,Truth or Consequences,NM,33.128405,-107.252807,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,600,357,243,429,0,171,800,100
+KJFA-FM,105.1,Santa Fe,NM,35.686975,-105.937799,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,1714,929,786,1286,0,429,2400,0
+KKIM-FM,94.7,Santa Fe,NM,35.686975,-105.937799,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,0,0,0,0,0,0,0,0
+KPZE-FM,106.1,Carlsbad,NM,32.420674,-104.228837,790,"Albuquerque-Santa Fe, NM",47,Regional Mexican,0,0,0,0,0,0,0,0
+KLBU-FM,102.9,Pecos,NM,35.574203,-105.675016,790,"Albuquerque-Santa Fe, NM",47,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KQGC-FM,91.1,Belen,NM,34.662765,-106.776155,790,"Albuquerque-Santa Fe, NM",47,Spanish Religious,457,171,286,114,229,114,0,1600
+KGCN-FM,91.7,Roswell,NM,33.394266,-104.523024,790,"Albuquerque-Santa Fe, NM",47,Spanish Religious,0,0,0,0,0,0,0,0
+KYOL-FM,91.7,Chama,NM,36.903068,-106.579479,790,"Albuquerque-Santa Fe, NM",47,Spanish Talk,0,0,0,0,0,0,0,0
+KVMG-FM,88.9,Raton,NM,36.903358,-104.439153,790,"Albuquerque-Santa Fe, NM",47,Spanish Talk,0,0,0,0,0,0,0,0
+KQTO-FM,88.1,Hurley,NM,32.699244,-108.131987,790,"Albuquerque-Santa Fe, NM",47,Spanish Talk,0,0,0,0,0,0,0,0
+KDLD-FM,103.1,Santa Monica,CA,34.019454,-118.491191,803,"Los Angeles, CA",2,Regional Mexican,4429,3057,1371,3571,143,714,5800,1000
+KRCD-FM,103.9,Inglewood,CA,33.96168,-118.353131,803,"Los Angeles, CA",2,Spanish Adult Hits,18786,10200,8586,3643,7429,7714,26100,500
+KSSC-FM,107.1,Ventura,CA,34.274641,-119.229005,803,"Los Angeles, CA",2,Spanish CHR,0,0,0,0,0,0,0,0
+KDLE-FM,103.1,Newport Beach,CA,33.61891,-117.928947,803,"Los Angeles, CA",2,Regional Mexican,0,0,0,0,0,0,0,0
+KLTX-AM,1390,Long Beach,CA,33.768321,-118.195617,803,"Los Angeles, CA",2,Spanish Religious,10957,6071,4886,5686,3829,1443,1500,34600
+KIQQ-AM,1310,Barstow,CA,34.895796,-117.017283,803,"Los Angeles, CA",2,Regional Mexican,229,29,200,29,29,171,0,800
+KEZY-AM,1240,San Bernardino,CA,34.108345,-117.289765,803,"Los Angeles, CA",2,Spanish Religious,71,71,0,71,0,0,100,0
+KKZZ-AM,1400,Santa Paula,CA,34.354166,-119.059271,803,"Los Angeles, CA",2,Spanish Talk,0,0,0,0,0,0,0,0
+KEPD-FM,104.9,Ridgecrest,CA,35.622456,-117.670897,803,"Los Angeles, CA",2,Spanish Adult Hits,229,200,29,143,86,0,0,800
+KLVE-FM,107.5,Los Angeles,CA,34.052234,-118.243685,803,"Los Angeles, CA",2,Romantica,17757,9714,8043,7600,171,9986,24100,1900
+KSSE-FM,107.1,Arcadia,CA,34.139729,-118.035345,803,"Los Angeles, CA",2,Spanish CHR,5643,2571,3071,1929,2786,929,7900,0
+KRCV-FM,98.3,West Covina,CA,34.068621,-117.938953,803,"Los Angeles, CA",2,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KVTR-AM,1590,Victorville,CA,34.536107,-117.291156,803,"Los Angeles, CA",2,Ranchero,0,0,0,0,0,0,0,0
+KSCA-FM,101.9,Glendale,CA,34.142508,-118.255075,803,"Los Angeles, CA",2,Regional Mexican,114,57,57,0,0,114,0,400
+KTNQ-AM,1020,Los Angeles,CA,34.052234,-118.243685,803,"Los Angeles, CA",2,Spanish News-Talk,2700,1329,1371,586,843,1271,3100,1700
+KUNX-AM,1520,Port Hueneme,CA,34.147783,-119.195107,803,"Los Angeles, CA",2,Spanish Talk,2100,1643,457,771,400,929,1500,3600
+KWKU-AM,1220,Pomona,CA,34.055227,-117.752305,803,"Los Angeles, CA",2,Spanish Sports,0,0,0,0,0,0,0,0
+KUTY-AM,1470,Palmdale,CA,34.579434,-118.116461,803,"Los Angeles, CA",2,Regional Mexican,629,314,314,86,114,429,0,2200
+KLYY-FM,97.5,Riverside,CA,33.953349,-117.396156,803,"Los Angeles, CA",2,Spanish Adult Hits,600,257,343,400,114,86,0,2100
+KWKW-AM,1330,Los Angeles,CA,34.052234,-118.243685,803,"Los Angeles, CA",2,Spanish Sports,4286,3714,571,857,1714,1714,6000,0
+KWRN-AM,1550,Apple Valley,CA,34.500831,-117.185876,803,"Los Angeles, CA",2,Regional Mexican,714,486,229,257,286,171,0,2500
+KAEH-FM,100.9,Beaumont,CA,33.929461,-116.977248,803,"Los Angeles, CA",2,Regional Mexican,529,443,86,300,0,229,500,600
+KMRO-FM,90.3,Camarillo,CA,34.216394,-119.037602,803,"Los Angeles, CA",2,Spanish Religious,486,100,386,343,0,143,600,200
+KIQQ-FM,103.7,Newberry Springs,CA,34.82721,-116.688364,803,"Los Angeles, CA",2,Regional Mexican,0,0,0,0,0,0,0,0
+KERU-FM,88.5,Blythe,CA,33.617233,-114.589174,803,"Los Angeles, CA",2,Spanish Talk,0,0,0,0,0,0,0,0
+KGIC-LP,105.5,Corona,CA,33.875294,-117.566438,803,"Los Angeles, CA",2,Spanish Religious,0,0,0,0,0,0,0,0
+KCEL-FM,96.1,Mojave,CA,35.05247,-118.173965,803,"Los Angeles, CA",2,Regional Mexican,429,0,429,429,0,0,600,0
+KORM-LP,101.5,Corona,CA,33.875294,-117.566438,803,"Los Angeles, CA",2,Spanish Religious,0,0,0,0,0,0,0,0
+KSFV-LP,87.7,Los Angeles,CA,34.052234,-118.243685,803,"Los Angeles, CA",2,Spanish Religious,0,0,0,0,0,0,0,0
+KLOB-FM,94.7,Thousand Palms,CA,33.820018,-116.390289,804,"Palm Springs, CA",148,Spanish Adult Hits,5514,3357,2157,3229,1286,1000,3400,10800
+KFUT-AM,1270,Thousand Palms,CA,33.820018,-116.390289,804,"Palm Springs, CA",148,Spanish Oldies,800,400,400,486,314,0,200,2300
+KESQ-AM,1400,Indio,CA,33.720577,-116.215562,804,"Palm Springs, CA",148,Regional Mexican,543,229,314,200,200,143,0,1900
+KUNA-FM,96.7,La Quinta,CA,33.663357,-116.310009,804,"Palm Springs, CA",148,Regional Mexican,11343,5486,5857,1671,2957,6714,6800,22700
+KPST-FM,103.5,Coachella,CA,33.6803,-116.173894,804,"Palm Springs, CA",148,Regional Mexican,1114,457,657,514,600,0,400,2900
+KVVF-FM,105.7,Santa Clara,CA,37.354108,-121.955236,807,"San Francisco-Oakland-San Jose, CA",6,Spanish CHR,8186,4657,3529,3571,3257,1357,8900,6400
+KBRG-FM,100.3,San Jose,CA,37.339386,-121.894955,807,"San Francisco-Oakland-San Jose, CA",6,Spanish Adult Hits,214,0,214,71,0,143,300,0
+KDAC-AM,1230,Ft. Bragg,CA,39.445723,-123.805293,807,"San Francisco-Oakland-San Jose, CA",6,Regional Mexican,0,0,0,0,0,0,0,0
+KVVZ-FM,100.7,San Rafael,CA,37.973535,-122.531087,807,"San Francisco-Oakland-San Jose, CA",6,Spanish CHR,2114,1143,971,914,943,257,0,7400
+KLLK-AM,1250,Willits,CA,39.409608,-123.355566,807,"San Francisco-Oakland-San Jose, CA",6,Regional Mexican,0,0,0,0,0,0,0,0
+KXTS-FM,98.7,Geyserville,CA,38.707476,-122.902765,807,"San Francisco-Oakland-San Jose, CA",6,Regional Mexican,1600,929,671,671,543,386,1400,2100
+KSOL-FM,98.9,San Francisco,CA,37.77493,-122.419416,807,"San Francisco-Oakland-San Jose, CA",6,Regional Mexican,2500,1371,1129,1286,571,643,3300,500
+KTRB-AM,860,San Francisco,CA,37.77493,-122.419416,807,"San Francisco-Oakland-San Jose, CA",6,Spanish Sports,600,600,0,143,286,171,800,100
+KUKI-AM,1400,Ukiah,CA,39.150171,-123.207783,807,"San Francisco-Oakland-San Jose, CA",6,Regional Mexican,0,0,0,0,0,0,0,0
+KVUH-FM,88.5,Laytonville,CA,39.688212,-123.482794,807,"San Francisco-Oakland-San Jose, CA",6,Spanish Talk,0,0,0,0,0,0,0,0
+KRQK-FM,100.3,Lompoc,CA,34.63915,-120.457941,855,"Santa Barbara-Santa Maria-San Luis Obispo, CA",123,Regional Mexican,2643,1629,1014,1186,1200,257,300,8500
+KSPE-AM,1490,Santa Barbara,CA,34.420831,-119.69819,855,"Santa Barbara-Santa Maria-San Luis Obispo, CA",123,Spanish Adult Hits,929,429,500,214,357,357,1300,0
+KSMY-FM,106.7,Lompoc,CA,34.63915,-120.457941,855,"Santa Barbara-Santa Maria-San Luis Obispo, CA",123,Spanish Adult Hits,2186,1186,1000,414,643,1129,2100,2400
+KIST-FM,107.7,Santa Barbara,CA,34.420831,-119.69819,855,"Santa Barbara-Santa Maria-San Luis Obispo, CA",123,Regional Mexican,1143,643,500,786,0,357,1600,0
+KXWB-FM,88.9,Nipomo,CA,35.042755,-120.475999,855,"Santa Barbara-Santa Maria-San Luis Obispo, CA",123,Spanish Talk,0,0,0,0,0,0,0,0
+KRTA-AM,610,Medford,OR,42.326515,-122.875595,813,"Medford-Klamath Falls, OR",140,Spanish Hits,214,71,143,71,143,0,300,0
+KOMR-FM,106.3,Sun City,AZ,33.597539,-112.271824,753,"Phoenix (Prescott), AZ",12,Spanish Adult Hits,2929,1929,1000,1500,0,1429,4100,0
+KQMR-FM,100.3,Globe,AZ,33.394222,-110.786498,753,"Phoenix (Prescott), AZ",12,Spanish Urban,1800,829,971,1114,286,400,1400,2800
+KIDR-AM,740,Phoenix,AZ,33.448377,-112.074037,753,"Phoenix (Prescott), AZ",12,Spanish Religious,629,229,400,343,229,57,0,2200
+KDVA-FM,106.9,Buckeye,AZ,33.37032,-112.583777,753,"Phoenix (Prescott), AZ",12,Spanish Adult Hits,714,329,386,486,229,0,200,2000
+KNUV-AM,1190,Tolleson,AZ,33.450043,-112.259321,753,"Phoenix (Prescott), AZ",12,Spanish News-Talk,0,0,0,0,0,0,0,0
+KHOV-FM,105.3,Wickenburg,AZ,33.969766,-112.730188,753,"Phoenix (Prescott), AZ",12,Spanish Urban,4600,2971,1629,2486,1857,257,0,16100
+KLNZ-FM,103.5,Glendale,AZ,33.538652,-112.185987,753,"Phoenix (Prescott), AZ",12,Regional Mexican,6186,4186,2000,4271,743,1171,5500,7900
+KVVA-FM,107.1,Apache Junction,AZ,33.415048,-111.549578,753,"Phoenix (Prescott), AZ",12,Spanish Adult Hits,3557,2629,929,1214,1643,700,4700,700
+KHOT-FM,105.9,Paradise Valley,AZ,33.531154,-111.942645,753,"Phoenix (Prescott), AZ",12,Regional Mexican,6986,5214,1771,4929,0,2057,9700,200
+KVIB-FM,95.1,Sun City West,AZ,33.661982,-112.341273,753,"Phoenix (Prescott), AZ",12,Spanish CHR,214,143,71,143,0,71,300,0
+KKMR-FM,106.5,Arizona City,AZ,32.755894,-111.670958,753,"Phoenix (Prescott), AZ",12,Spanish Adult Hits,171,114,57,29,143,0,0,600
+KBMB-AM,710,Black Canyon City,AZ,34.070867,-112.150715,753,"Phoenix (Prescott), AZ",12,Spanish Sports,529,214,314,214,171,143,300,1100
+KRPH-FM,99.5,Morristown,AZ,33.854837,-112.620326,753,"Phoenix (Prescott), AZ",12,Regional Mexican,0,0,0,0,0,0,0,0
+KRYP-FM,93.1,Gladstone,OR,45.380676,-122.594814,820,"Portland, OR",22,Regional Mexican,3714,2857,857,1643,1643,429,5200,0
+KCKX-AM,1460,Stayton,OR,44.800678,-122.794533,820,"Portland, OR",22,Spanish Sports,0,0,0,0,0,0,0,0
+KWBY-AM,940,Woodburn,OR,45.143731,-122.855372,820,"Portland, OR",22,Regional Mexican,486,329,157,71,300,114,400,700
+KWIP-AM,880,Dallas,OR,44.919284,-123.317047,820,"Portland, OR",22,Regional Mexican,5329,2829,2500,1386,2657,1286,1900,13900
+KSND-FM,95.1,Monmouth,OR,44.848452,-123.233989,820,"Portland, OR",22,Spanish Oldies,914,500,414,343,400,171,200,2700
+KXPC-FM,90.3,Welches,OR,45.338481,-121.963217,820,"Portland, OR",22,Spanish Religious,0,0,0,0,0,0,0,0
+KFTA-AM,970,Rupert,ID,42.619076,-113.677235,760,"Twin Falls, ID",192,Spanish Adult Hits,1271,600,671,486,600,186,500,3200
+KEZJ-AM,1450,Twin Falls,ID,42.562967,-114.460871,760,"Twin Falls, ID",192,Spanish Religious,71,0,71,0,0,71,100,0
+KRXR-AM,1480,Gooding,ID,42.938792,-114.713108,760,"Twin Falls, ID",192,Regional Mexican,1071,429,643,171,200,700,300,3000
+KPDA-FM,100.7,Gooding,ID,42.938792,-114.713108,760,"Twin Falls, ID",192,Regional Mexican,571,357,214,429,0,143,800,0
+KBWE-FM,91.9,Burley,ID,42.535743,-113.792795,760,"Twin Falls, ID",192,Spanish,0,0,0,0,0,0,0,0
+KSSD-FM,107.1,Fallbrook,CA,33.37642,-117.251147,825,"San Diego, CA",28,Spanish CHR,0,0,0,0,0,0,0,0
+KLQV-FM,102.9,San Diego,CA,32.715329,-117.157255,825,"San Diego, CA",28,Spanish Adult Hits,229,143,86,29,171,29,0,800
+KLNV-FM,106.5,San Diego,CA,32.715329,-117.157255,825,"San Diego, CA",28,Regional Mexican,0,0,0,0,0,0,0,0
+KSDO-AM,1130,San Diego,CA,32.715329,-117.157255,825,"San Diego, CA",28,Spanish Religious,929,571,357,143,357,429,1300,0
+KLOK-FM,99.5,Greenfield,CA,36.3208,-121.243814,828,"Monterey-Salinas, CA",125,Regional Mexican,2643,1714,929,2143,0,500,3700,0
+KPRC-FM,100.7,Salinas,CA,36.677737,-121.655501,828,"Monterey-Salinas, CA",125,Spanish Adult Hits,4586,1586,3000,1543,571,2471,3100,8300
+KMBX-AM,700,Soledad,CA,36.424687,-121.326319,828,"Monterey-Salinas, CA",125,Spanish Religious,714,214,500,214,0,500,1000,0
+KSES-FM,107.1,Seaside,CA,36.6214,-121.818584,828,"Monterey-Salinas, CA",125,Spanish Adult Hits,1600,957,643,486,757,357,1000,3100
+KSQL-FM,99.1,Santa Cruz,CA,36.974117,-122.030796,828,"Monterey-Salinas, CA",125,Regional Mexican,543,257,286,86,200,257,0,1900
+KHDC-FM,90.9,Chualar,CA,36.570517,-121.518551,828,"Monterey-Salinas, CA",125,Spanish Talk,71,71,0,71,0,0,100,0
+KDRH-FM,91.3,King City,CA,36.212744,-121.126029,828,"Monterey-Salinas, CA",125,Spanish Religious,0,0,0,0,0,0,0,0
+KCTZ-FM,90.3,San Lucas,CA,36.128855,-121.020467,828,"Monterey-Salinas, CA",125,Spanish Religious,0,0,0,0,0,0,0,0
+KLZT-FM,107.1,Bastrop,TX,30.110495,-97.31527,635,"Austin, TX",40,Regional Mexican,3857,1957,1900,3171,171,514,4800,1500
+KLQB-FM,104.3,Taylor,TX,30.570755,-97.409444,635,"Austin, TX",40,Regional Mexican,2571,1500,1071,1571,0,1000,3600,0
+KLJA-FM,107.7,Georgetown,TX,30.632694,-97.677231,635,"Austin, TX",40,Regional Mexican,1929,1286,643,1786,0,143,2700,0
+KZNX-AM,1530,Creedmoor,TX,30.089937,-97.733892,635,"Austin, TX",40,Spanish Talk,143,86,57,57,57,29,0,500
+KFXZ-AM,1520,Lafayette,LA,30.22409,-92.019843,642,"Lafayette, LA",122,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KSLO-AM,1230,Opelousas,LA,30.53353,-92.081509,642,"Lafayette, LA",122,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KCVR-AM,1570,Lodi,CA,38.134148,-121.272219,862,"Sacramento-Stockton-Modesto, CA",20,Romantica,0,0,0,0,0,0,0,0
+KMIX-FM,100.9,Tracy,CA,37.739651,-121.425223,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,143,71,71,0,0,143,200,0
+KGRB-FM,94.3,Jackson,CA,38.348802,-120.774102,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,871,343,529,186,171,514,300,2300
+KOBO-AM,1450,Yuba City,CA,39.140448,-121.616911,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,0,0,0,0,0,0,0,0
+KXSE-FM,104.3,Davis,CA,38.544907,-121.740517,862,"Sacramento-Stockton-Modesto, CA",20,Spanish Adult Hits,5429,3086,2343,1657,2100,1671,7000,1500
+KCVV-AM,1240,Sacramento,CA,38.581572,-121.4944,862,"Sacramento-Stockton-Modesto, CA",20,Spanish Religious,114,0,114,29,29,57,0,400
+KRCX-FM,99.9,Marysville,CA,39.145725,-121.591355,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,457,214,243,214,0,243,600,100
+KCVR-FM,98.9,Columbia,CA,38.036312,-120.401306,862,"Sacramento-Stockton-Modesto, CA",20,Romantica,1257,343,914,357,229,671,200,3900
+KLMG-FM,97.9,Esparto,CA,38.692126,-122.017192,862,"Sacramento-Stockton-Modesto, CA",20,Spanish CHR,1214,543,671,929,57,229,1100,1500
+KTSE-FM,97.1,Patterson,CA,37.4716,-121.129656,862,"Sacramento-Stockton-Modesto, CA",20,Spanish Adult Hits,2571,1214,1357,214,1286,1071,3600,0
+KBBU-FM,93.9,Modesto,CA,37.639097,-120.996878,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,600,214,386,214,29,357,800,100
+KMPO-FM,88.7,Modesto,CA,37.639097,-120.996878,862,"Sacramento-Stockton-Modesto, CA",20,Spanish Talk,0,0,0,0,0,0,0,0
+KBAA-FM,103.3,Grass Valley,CA,39.219061,-121.061061,862,"Sacramento-Stockton-Modesto, CA",20,Regional Mexican,857,257,600,229,143,486,0,3000
+KAAT-FM,103.1,Oakhurst,CA,37.328,-119.649315,866,"Fresno-Visalia, CA",55,Regional Mexican,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,1200,0
+KEYQ-AM,980,Fresno,CA,36.746842,-119.772587,866,"Fresno-Visalia, CA",55,Spanish Religious,686,143,543,57,114,514,0,2400
+KGAM-FM,106.3,Merced,CA,37.302163,-120.482968,866,"Fresno-Visalia, CA",55,Spanish Hits,271,71,200,71,0,200,300,200
+KLOQ-FM,98.7,Winton,CA,37.389383,-120.613252,866,"Fresno-Visalia, CA",55,Regional Mexican,8186,3686,4500,4514,2686,986,1100,25900
+KFSO-FM,92.9,Visalia,CA,36.330228,-119.292058,866,"Fresno-Visalia, CA",55,Spanish Adult Hits,357,0,357,0,0,357,500,0
+KGST-AM,1600,Fresno,CA,36.746842,-119.772587,866,"Fresno-Visalia, CA",55,Spanish Sports,614,400,214,429,114,71,500,900
+KMAK-FM,100.3,Orange Cove,CA,36.624394,-119.31373,866,"Fresno-Visalia, CA",55,Regional Mexican,971,529,443,171,86,714,1200,400
+KHIT-FM,107.1,Madera,CA,36.961336,-120.060718,866,"Fresno-Visalia, CA",55,Spanish Adult Hits,1271,786,486,1029,29,214,1500,700
+KRDA-FM,107.5,Hanford,CA,36.32745,-119.645684,866,"Fresno-Visalia, CA",55,Spanish Adult Hits,2671,1200,1471,1343,286,1043,2300,3600
+KMQA-FM,100.5,East Porterville,CA,36.057452,-118.975655,866,"Fresno-Visalia, CA",55,Regional Mexican,500,357,143,214,0,286,700,0
+KLBN-FM,101.9,Fresno,CA,36.746842,-119.772587,866,"Fresno-Visalia, CA",55,Regional Mexican,1929,1129,800,829,457,643,1900,2000
+KQLB-FM,106.9,Los Banos,CA,37.058279,-120.849915,866,"Fresno-Visalia, CA",55,Regional Mexican,429,286,143,429,0,0,600,0
+KTNS-AM,1060,Oakhurst,CA,37.328,-119.649315,866,"Fresno-Visalia, CA",55,Regional Mexican,0,0,0,0,0,0,0,0
+KXEX-AM,1550,Fresno,CA,36.746842,-119.772587,866,"Fresno-Visalia, CA",55,Spanish Religious,629,371,257,0,171,457,0,2200
+KOND-FM,92.1,Clovis,CA,36.825228,-119.702919,866,"Fresno-Visalia, CA",55,Regional Mexican,5871,3443,2429,3329,1200,1343,3900,10800
+KBLO-FM,102.3,Corcoran,CA,36.098007,-119.560402,866,"Fresno-Visalia, CA",55,Spanish Contemporary Christian,443,157,286,0,143,300,300,800
+KLLE-FM,107.9,North Fork,CA,37.229377,-119.509381,866,"Fresno-Visalia, CA",55,Spanish Urban,1543,529,1014,743,343,457,800,3400
+KSJV-FM,91.5,Fresno,CA,36.746842,-119.772587,866,"Fresno-Visalia, CA",55,Spanish Talk,371,143,229,114,171,86,0,1300
+KTIQ-AM,1660,Merced,CA,37.302163,-120.482968,866,"Fresno-Visalia, CA",55,Spanish Contemporary Christian,486,400,86,171,29,286,0,1700
+KMEN-FM,100.5,Mendota,CA,36.753561,-120.381557,866,"Fresno-Visalia, CA",55,Regional Mexican,771,143,629,143,314,314,0,2700
+KFSC-LP,94.1,Visalia,CA,36.330228,-119.292058,866,"Fresno-Visalia, CA",55,Spanish,0,0,0,0,0,0,0,0
+KWLN-FM,103.3,Wilson Creek,WA,47.423201,-119.12085,881,"Spokane, WA",73,Spanish CHR,1614,1286,329,400,600,614,700,3900
+KWNC-AM,1370,Quincy,WA,47.2343,-119.85255,881,"Spokane, WA",73,Spanish Adult Hits,0,0,0,0,0,0,0,0
+KZHR-FM,92.5,Dayton,WA,46.323753,-117.972437,881,"Spokane, WA",73,Regional Mexican,614,343,271,400,214,0,700,400
+KZML-FM,95.9,Quincy,WA,47.2343,-119.85255,881,"Spokane, WA",73,Regional Mexican,1286,414,871,429,400,457,600,3000
+KWDR-FM,93.5,Royal City,WA,46.90097,-119.630591,881,"Spokane, WA",73,Spanish Contemporary Christian,0,0,0,0,0,0,0,0
